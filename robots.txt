@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yonsei-iot.github.io/sitemap.xml
